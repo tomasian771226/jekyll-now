@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: 토신 (토신)
+name:tosin
 
 # Short bio or description (displayed in the header)
-  description: 토신 (수정)
+  description:tosin
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
